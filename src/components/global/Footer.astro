@@ -1,5 +1,7 @@
 ---
 import Blurgradientleft from "../assets/Blurgradientleft.astro";
+import Link from '../components/Link.astro';
+import LinkWithIcon from '../components/LinkWithIcon.astro';
 ---
 
 <footer class="relative border-t bg-vulcan-900 border-white/5">
@@ -37,40 +39,12 @@ import Blurgradientleft from "../assets/Blurgradientleft.astro";
             <h3 class="text-white">Company</h3>
             <ul role="list" class="mt-4 space-y-2">
               <li>
-                <a
-                  href="/privacy"
-                  title="privacy policy"
-                  class="text-sm text-vulcan-300 hover:text-white"
-                >
-                  Privacy Policy
-                </a>
+                <Link to="/privacy" title="privacy policy" />
               </li>
             </ul>
             <ul role="list" class="mt-1 space-y-2">
               <li>
-                <a
-                  href="mailto:gptsmotion@gmail.com"
-                  title="
-                  link
-                  to
-                  page"
-                  aria-label="your label"
-                  class="text-sm text-vulcan-300 hover:text-white inline-flex"
-                >
-                  Contact
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    fill="none"
-                    viewBox="0 0 16 16"
-                    class="w-3 ml-1"
-                    ><path
-                      stroke="currentColor"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                      stroke-width="1.5"
-                      d="M6.25 3.75h6m0 0v6m0-6-8.5 8.5"></path></svg
-                  >
-                </a>
+                <LinkWithIcon title="Contact" to="mailto:gptsmotion@gmail.com" />
               </li>
             </ul>
           </div>
@@ -78,14 +52,7 @@ import Blurgradientleft from "../assets/Blurgradientleft.astro";
             <h3 class="text-white">Community</h3>
             <ul role="list" class="mt-4 space-y-2">
               <li>
-                <a
-                  href="/components/overview"
-                  title="link to  page"
-                  aria-label="your label"
-                  class="text-sm text-vulcan-300 hover:text-white"
-                >
-                  Github
-                </a>
+                <LinkWithIcon to="/components/overview" title="Github" />
               </li>
             </ul>
           </div>
@@ -95,34 +62,15 @@ import Blurgradientleft from "../assets/Blurgradientleft.astro";
             <h3 class="text-white">Product</h3>
             <ul role="list" class="mt-4 space-y-2">
               <li>
-                <a
-                  href="https://twitter.com/lexingtonthemes"
-                  title="link to  page"
-                  aria-label="your label"
-                  class="text-sm text-vulcan-300 hover:text-white"
-                >
-                  Browser Extension
-                </a>
+                <LinkWithIcon to="https://twitter.com/lexingtonthemes" title="Browser Extension" />
               </li>
 
               <li>
-                <a
-                  href="https://release.gptsmotion.com/"
-                  title="release notes"
-                  class="text-sm text-vulcan-300 hover:text-white"
-                >
-                  Changelog
-                </a>
+                <LinkWithIcon to="https://release.gptsmotion.com/" title="Changelog" />
               </li>
 
               <li>
-                <a
-                  href="https://developers.gptsmotion.com/"
-                  title="release notes"
-                  class="text-sm text-vulcan-300 hover:text-white"
-                >
-                  API Doc
-                </a>
+                <LinkWithIcon to="https://developers.gptsmotion.com/" title="API Doc" />
               </li>
             </ul>
           </div>
@@ -130,14 +78,7 @@ import Blurgradientleft from "../assets/Blurgradientleft.astro";
             <h3 class="text-white">By GPTsMotion</h3>
             <ul role="list" class="mt-4 space-y-2">
               <li>
-                <a
-                  href="https://twitter.com/lexingtonthemes"
-                  title="link to  page"
-                  aria-label="your label"
-                  class="text-sm text-vulcan-300 hover:text-white"
-                >
-                  Super Motion
-                </a>
+                <LinkWithIcon to="https://twitter.com/lexingtonthemes" title="Super Motion" />
               </li>
             </ul>
           </div>
