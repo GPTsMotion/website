@@ -1,0 +1,56 @@
+---
+import Blurgradientleft from "../assets/Blurgradientleft.astro";
+import Verticalgrid from "../assets/Verticalgrid.astro";
+import SparkleButton from "../components/SparkleButton.astro";
+import TypeWriter from '../components/TypeWrite.jsx';
+---
+---
+
+<section class="relative">
+  <Verticalgrid />
+  <section>
+    <div
+      class="relative items-center w-full px-5 py-20  mx-auto md:px-12 lg:px-16 max-w-7xl lg:pb-12 lg:pt-40 "
+    >
+    <Blurgradientleft/>
+      <div class="max-w-5xl mx-auto">
+        <p class="text-md sm:text-xl pb-2 text-transparent bg-gradient-to-r from-indigo-300 to-indigo-400 bg-clip-text" >
+        Game Changer Of GPTs
+        </p>
+        <div class="min-h-[5em]">
+          <TypeWriter client:only="react"/>
+        </div>
+        <p class="max-w-2xl text-md sm:text-xl text-vulcan-300">
+          Make GPTs streamline your browser tasks in seconds: GPTsMotion effortlessly transforms your spoken commands into web actions, supercharging productivity on the fly.
+        </p>
+        <div class="flex flex-wrap items-center gap-8 mt-10">
+          <!-- <a
+            href="https://lexingtonthemes.lemonsqueezy.com/checkout/buy/cad98266-24b3-47fd-99a6-e65ad9af37f6"
+            title="link to  page"
+            aria-label="your label"
+            class="flex items-center justify-center h-10 px-4 py-2 text-sm font-semibold text-white transition-all rounded-lg hover:to-indigo-600 bg-gradient-to-b from-indigo-300 via-indigo-400 to-indigo-500"
+            >Integrate Now</a
+          > -->
+          <SparkleButton content=""/>
+          <a
+            href="/system/overview"
+            title="link to  page"
+            aria-label="your label"
+            class="flex items-center justify-center h-10 px-4 py-2 text-sm font-semibold text-white transition-all border rounded-lg bg-vulcan-900 hover:text-indigo-400 border-vulcan-700"
+            >See Pitch</a
+          >
+        </div>
+      </div>
+      <div
+        class="relative items-center w-full mx-auto mt-12 max-w-7xl lg:p-10 lg:rounded-5xl lg:border border-vulcan-800"
+        style=""
+      >
+        <img
+          class="object-cover w-full border shadow-2xl rounded-xl border-white/5 lg:rounded-3xl shadow-vulcan-950"
+          src="/assets/dashboard.svg"
+          alt=""
+        />
+      </div>
+    </div>
+  </section>
+</section>

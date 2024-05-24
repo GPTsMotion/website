@@ -1,0 +1,239 @@
+<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" />
+
+<div class="content font-bold">
+  <p>Take that,</p>
+  <div class="content__container">
+    <ul class="content__container__list underline underline-offset-[6px] decoration-6 decoration-primary-400">
+      <li class="content__container__list__item">Browser Extension</li>
+      <li class="content__container__list__item">UserScript</li>
+      <li class="content__container__list__item">Web Automation</li>
+      <li class="content__container__list__item">GPTs</li>
+    </ul>
+  </div>
+  <p class="pt-2">Everything you need</p>
+  <p class="mt-2 pb-2">
+    In one
+    <span
+      class=""
+    >
+      launcher.
+    </span>
+  </p>
+</div>
+
+<style lang="scss">
+  .content {
+    --font-size: 50px;
+    --line-height: 50px;
+    --slide-height: 80px;
+    overflow: hidden;
+    font-family: 'Urbanist',sans-serif;
+    font-size: var(--font-size);
+    font-weight: 800;
+    letter-spacing:-0.01em;
+    line-height: var(--line-height);
+    color: #ecf0f1;
+
+    @media (max-width: 640px) {
+      --font-size: 28px;
+      --line-height: 28px;
+      --slide-height: 40px;
+    }
+
+    &__container {
+      overflow: hidden;
+      height: var(--slide-height);
+        
+    
+      &__list {
+        margin-top: 0;
+        text-align: left;
+        list-style: none;
+
+        -webkit-animation-name: change;
+        -webkit-animation-duration: 10s;
+        -webkit-animation-iteration-count: infinite;
+        animation-name: change;
+        animation-duration: 12s;
+        animation-iteration-count: infinite;
+
+        &__item {
+          line-height: calc(var(--slide-height) * 1);
+          margin: 0;
+          // no wrap
+          white-space: nowrap;
+        }
+      }
+    }
+  }
+
+  @-webkit-keyframes opacity {
+    0%,
+    100% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+    }
+  }
+
+  @-webkit-keyframes change {
+    0%,
+    12.66%,
+    100% {
+      transform: translate3d(0, 0, 0);
+    }
+    16.66%,
+    29.32% {
+      transform: translate3d(0, -25%, 0);
+    }
+    33.32%,
+    45.98% {
+      transform: translate3d(0, -50%, 0);
+    }
+    49.98%,
+    62.64% {
+      transform: translate3d(0, -75%, 0);
+    }
+    66.64%,
+    79.3% {
+      transform: translate3d(0, -50%, 0);
+    }
+    83.3%,
+    95.96% {
+      transform: translate3d(0, -25%, 0);
+    }
+  }
+
+  @-o-keyframes opacity {
+    0%,
+    100% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+    }
+  }
+
+  @-o-keyframes change {
+    0%,
+    12.66%,
+    100% {
+      transform: translate3d(0, 0, 0);
+    }
+    16.66%,
+    29.32% {
+      transform: translate3d(0, -25%, 0);
+    }
+    33.32%,
+    45.98% {
+      transform: translate3d(0, -50%, 0);
+    }
+    49.98%,
+    62.64% {
+      transform: translate3d(0, -75%, 0);
+    }
+    66.64%,
+    79.3% {
+      transform: translate3d(0, -50%, 0);
+    }
+    83.3%,
+    95.96% {
+      transform: translate3d(0, -25%, 0);
+    }
+  }
+
+  @-moz-keyframes opacity {
+    0%,
+    100% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+    }
+  }
+
+  @-moz-keyframes change {
+    0%,
+    12.66%,
+    100% {
+      transform: translate3d(0, 0, 0);
+    }
+    16.66%,
+    29.32% {
+      transform: translate3d(0, -25%, 0);
+    }
+    33.32%,
+    45.98% {
+      transform: translate3d(0, -50%, 0);
+    }
+    49.98%,
+    62.64% {
+      transform: translate3d(0, -75%, 0);
+    }
+    66.64%,
+    79.3% {
+      transform: translate3d(0, -50%, 0);
+    }
+    83.3%,
+    95.96% {
+      transform: translate3d(0, -25%, 0);
+    }
+  }
+
+  @keyframes opacity {
+    0%,
+    100% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+    }
+  }
+
+  @keyframes change {
+    0%,
+    12.66%,
+    100% {
+      transform: translate3d(0, 0, 0);
+    }
+    16.66%,
+    29.32% {
+      transform: translate3d(0, -25%, 0);
+    }
+    33.32%,
+    45.98% {
+      transform: translate3d(0, -50%, 0);
+    }
+    49.98%,
+    62.64% {
+      transform: translate3d(0, -75%, 0);
+    }
+    66.64%,
+    79.3% {
+      transform: translate3d(0, -50%, 0);
+    }
+    83.3%,
+    95.96% {
+      transform: translate3d(0, -25%, 0);
+    }
+  }
+
+  // 6 is the number of animation.
+  // Here, there are 4 lines :
+
+  // 1 to 2
+  // 2 to 3
+  // 3 to 4
+  // 4 to 3
+  // 3 to 2
+  // 2 to 1
+
+  // 6x + 6y = 100 (100% duration)
+
+  // HERE :
+  // y = 4 -> Animation between two lines
+  // x = 12.66 -> Time spent on a line
+
+  // You can define a value and calculate the other if you want change speed or the number of lines
+</style>

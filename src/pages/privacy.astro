@@ -1,0 +1,12 @@
+---
+import { getEntryBySlug } from "astro:content";
+import InfoPagesLayout from "@/layouts/InfoPagesLayout.astro";
+
+// 获取并渲染单个 Markdown 文件
+const privacyPolicy = await getEntryBySlug("infopages", "privacy");
+const { Content } = await privacyPolicy.render();
+---
+
+<InfoPagesLayout frontmatter={privacyPolicy.data}>
+  <Content />
+</InfoPagesLayout>
