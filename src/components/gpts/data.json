@@ -1,0 +1,1092 @@
+[
+  {
+    "type": "Languages",
+    "name": "Python",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Fpython.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-jIgQDiQuT"
+  },
+  {
+    "type": "Languages",
+    "name": "PHP",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Fphp.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-v0ErLpZwR"
+  },
+  {
+    "type": "Languages",
+    "name": "Java",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Fjava.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-3GmVMbWRV"
+  },
+  {
+    "type": "Languages",
+    "name": "Swift",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Fswift.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-L9NbS395h"
+  },
+  {
+    "type": "Languages",
+    "name": "Javascript",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Fjavascript.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-izfY9J70Q"
+  },
+  {
+    "type": "Languages",
+    "name": "Typescript",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Ftypescript.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-pTBbaNo04"
+  },
+  {
+    "type": "Languages",
+    "name": "C++",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Fc%2B%2B.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-qmHgSbmzJ"
+  },
+  {
+    "type": "Languages",
+    "name": "C#",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Fcs.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-E21zw6c9w"
+  },
+  {
+    "type": "Languages",
+    "name": "Rust",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Frust.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-pWbYqrykB"
+  },
+  {
+    "type": "Languages",
+    "name": "Ruby",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Fruby.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-pQTdQlgn8"
+  },
+  {
+    "type": "Languages",
+    "name": "R",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Fr.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-VCFd4cgnV"
+  },
+  {
+    "type": "Languages",
+    "name": "Kotlin",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Fkotlin.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-46iTuBBFU"
+  },
+  {
+    "type": "Languages",
+    "name": "Golang",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Fgolang.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-bcOg2GHrh"
+  },
+  {
+    "type": "Languages",
+    "name": "Lua",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Flua.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-ZqJkisAEJ"
+  },
+  {
+    "type": "Languages",
+    "name": "Pine Script",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Fpinescript.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-QrGcQCZI1"
+  },
+  {
+    "type": "Languages",
+    "name": "Haskell",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Fhaskell.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-VV3ZUdyGP"
+  },
+  {
+    "type": "Languages",
+    "name": "Assembly",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Fassembly.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-NVcZxl3oa"
+  },
+  {
+    "type": "Languages",
+    "name": "Visual Basic",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Fvisual-basic.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-lVLtRX8TF"
+  },
+  {
+    "type": "Languages",
+    "name": "Julia",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Fjulia.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-cRCx2xMm4"
+  },
+  {
+    "type": "Languages",
+    "name": "Elixir",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Felixir.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-KOlbVsqfg"
+  },
+  {
+    "type": "Languages",
+    "name": "Delphi",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Fdelphi.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-6XuORynHm"
+  },
+  {
+    "type": "Frontend",
+    "name": "Frontend",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Ffrontend.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-e8AuMIn3G"
+  },
+  {
+    "type": "Frontend",
+    "name": "React",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Freact.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-w2D4rqH0d"
+  },
+  {
+    "type": "Frontend",
+    "name": "Flutter",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Fflutter.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-cZPwvslfA"
+  },
+  {
+    "type": "Frontend",
+    "name": "Android",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Fandroid.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-Rc1HXJrDF"
+  },
+  {
+    "type": "Frontend",
+    "name": "React Native",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Freactnative.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-BobnY4cce"
+  },
+  {
+    "type": "Frontend",
+    "name": "Angular",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Fangular.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-U80yiDX6F"
+  },
+  {
+    "type": "Frontend",
+    "name": "Vue",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Fvue.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-V9flHctZB"
+  },
+  {
+    "type": "Frontend",
+    "name": "Svelte",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Fsvelte.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-55rHhV4EI"
+  },
+  {
+    "type": "Frontend",
+    "name": "Blazor",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Fblazor.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-qu3XPD9Az"
+  },
+  {
+    "type": "Frontend",
+    "name": "Next.js",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Fnextjs.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-lAbjRB9qC"
+  },
+  {
+    "type": "Frontend",
+    "name": "Nuxt",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Fnuxt.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-cLuv6ueqE"
+  },
+  {
+    "type": "Frontend",
+    "name": "CSS",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Fcss.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-D1OyE8zdF"
+  },
+  {
+    "type": "Frontend",
+    "name": "jQuery",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Fjquery.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-c4Ph2EfdF"
+  },
+  {
+    "type": "Frontend",
+    "name": "Bootstrap",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Fbootstrap.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-DXl3ncV81"
+  },
+  {
+    "type": "Frontend",
+    "name": "TailwindCSS",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Ftailwind.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-SjAqAvLPM"
+  },
+  {
+    "type": "Frontend",
+    "name": "Framer",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Fframer.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-wBAiQNA0Y"
+  },
+  {
+    "type": "Frontend",
+    "name": "FlutterFlow",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Fflutterflow.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-h7CngbjtK"
+  },
+  {
+    "type": "Frontend",
+    "name": "Flowbite",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Fflowbite.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-WMn6DyPNq"
+  },
+  {
+    "type": "Frontend",
+    "name": "Chrome Extension Builder",
+    "avatar": "https://gpts.widenex.com/_next/image?url=%2Fchrome-extensions.png&w=256&q=75",
+    "link": "https://chatgpt.com/g/g-n00AzjOiB"
+  },
+  {
+    "type": "Backend",
+    "name": "Node.js",
+    "avatar": "https://gpts.widenex.com/nodejs.png",
+    "link": "https://chatgpt.com/g/g-OHnkjwF54"
+  },
+  {
+    "type": "Backend",
+    "name": "Nest.js",
+    "avatar": "https://gpts.widenex.com/nestjs.png",
+    "link": "https://chatgpt.com/g/g-M5xiZJST7"
+  },
+  {
+    "type": "Backend",
+    "name": "Django",
+    "avatar": "https://gpts.widenex.com/django.png",
+    "link": "https://chatgpt.com/g/g-LCO79N7QT"
+  },
+  {
+    "type": "Backend",
+    "name": "Flask",
+    "avatar": "https://gpts.widenex.com/flask.png",
+    "link": "https://chatgpt.com/g/g-T50sNiwPE"
+  },
+  {
+    "type": "Backend",
+    "name": "FastAPI",
+    "avatar": "https://gpts.widenex.com/fastapi.png",
+    "link": "https://chatgpt.com/g/g-0vQ5EDqFG"
+  },
+  {
+    "type": "Backend",
+    "name": "Laravel",
+    "avatar": "https://gpts.widenex.com/laravel.png",
+    "link": "https://chatgpt.com/g/g-2ND93c6u2"
+  },
+  {
+    "type": "Backend",
+    "name": ".NET",
+    "avatar": "https://gpts.widenex.com/net.png",
+    "link": "https://chatgpt.com/g/g-SmxfTyCnC"
+  },
+  {
+    "type": "Backend",
+    "name": "Ruby on Rails",
+    "avatar": "https://gpts.widenex.com/rails.png",
+    "link": "https://chatgpt.com/g/g-ovhlxUSlY"
+  },
+  {
+    "type": "Backend",
+    "name": "Spring",
+    "avatar": "https://gpts.widenex.com/spring.png",
+    "link": "https://chatgpt.com/g/g-2DnRe8uhS"
+  },
+  {
+    "type": "Backend",
+    "name": "Firebase",
+    "avatar": "https://gpts.widenex.com/firebase.png",
+    "link": "https://chatgpt.com/g/g-PJJpbTAI5"
+  },
+  {
+    "type": "Backend",
+    "name": "Supabase",
+    "avatar": "https://gpts.widenex.com/supabase.png",
+    "link": "https://chatgpt.com/g/g-9UisKWdjr"
+  },
+  {
+    "type": "Backend",
+    "name": "GraphQL",
+    "avatar": "https://gpts.widenex.com/graphql.png",
+    "link": "https://chatgpt.com/g/g-GxSt5HYPh"
+  },
+  {
+    "type": "Backend",
+    "name": "Jest",
+    "avatar": "https://gpts.widenex.com/jest.png",
+    "link": "https://chatgpt.com/g/g-UkMfoTjp7"
+  },
+  {
+    "type": "Backend",
+    "name": "Cypress",
+    "avatar": "https://gpts.widenex.com/cypress.png",
+    "link": "https://chatgpt.com/g/g-YL3c625Xd"
+  },
+  {
+    "type": "Backend",
+    "name": "Apache Kafka",
+    "avatar": "https://gpts.widenex.com/kafka.png",
+    "link": "https://chatgpt.com/g/g-8hOKG0kJ4"
+  },  {
+  "type": "Backend",
+  "name": "Node.js",
+  "avatar": "https://gpts.widenex.com/nodejs.png",
+  "link": "https://chatgpt.com/g/g-OHnkjwF54"
+},
+  {
+    "type": "Backend",
+    "name": "Nest.js",
+    "avatar": "https://gpts.widenex.com/nestjs.png",
+    "link": "https://chatgpt.com/g/g-M5xiZJST7"
+  },
+  {
+    "type": "Backend",
+    "name": "Django",
+    "avatar": "https://gpts.widenex.com/django.png",
+    "link": "https://chatgpt.com/g/g-LCO79N7QT"
+  },
+  {
+    "type": "Backend",
+    "name": "Flask",
+    "avatar": "https://gpts.widenex.com/flask.png",
+    "link": "https://chatgpt.com/g/g-T50sNiwPE"
+  },
+  {
+    "type": "Backend",
+    "name": "FastAPI",
+    "avatar": "https://gpts.widenex.com/fastapi.png",
+    "link": "https://chatgpt.com/g/g-0vQ5EDqFG"
+  },
+  {
+    "type": "Backend",
+    "name": "Laravel",
+    "avatar": "https://gpts.widenex.com/laravel.png",
+    "link": "https://chatgpt.com/g/g-2ND93c6u2"
+  },
+  {
+    "type": "Backend",
+    "name": ".NET",
+    "avatar": "https://gpts.widenex.com/net.png",
+    "link": "https://chatgpt.com/g/g-SmxfTyCnC"
+  },
+  {
+    "type": "Backend",
+    "name": "Ruby on Rails",
+    "avatar": "https://gpts.widenex.com/rails.png",
+    "link": "https://chatgpt.com/g/g-ovhlxUSlY"
+  },
+  {
+    "type": "Backend",
+    "name": "Spring",
+    "avatar": "https://gpts.widenex.com/spring.png",
+    "link": "https://chatgpt.com/g/g-2DnRe8uhS"
+  },
+  {
+    "type": "Backend",
+    "name": "Firebase",
+    "avatar": "https://gpts.widenex.com/firebase.png",
+    "link": "https://chatgpt.com/g/g-PJJpbTAI5"
+  },
+  {
+    "type": "Backend",
+    "name": "Supabase",
+    "avatar": "https://gpts.widenex.com/supabase.png",
+    "link": "https://chatgpt.com/g/g-9UisKWdjr"
+  },
+  {
+    "type": "Backend",
+    "name": "GraphQL",
+    "avatar": "https://gpts.widenex.com/graphql.png",
+    "link": "https://chatgpt.com/g/g-GxSt5HYPh"
+  },
+  {
+    "type": "Backend",
+    "name": "Jest",
+    "avatar": "https://gpts.widenex.com/jest.png",
+    "link": "https://chatgpt.com/g/g-UkMfoTjp7"
+  },
+  {
+    "type": "Backend",
+    "name": "Cypress",
+    "avatar": "https://gpts.widenex.com/cypress.png",
+    "link": "https://chatgpt.com/g/g-YL3c625Xd"
+  },
+  {
+    "type": "Backend",
+    "name": "Apache Kafka",
+    "avatar": "https://gpts.widenex.com/kafka.png",
+    "link": "https://chatgpt.com/g/g-8hOKG0kJ4"
+  },
+  {
+    "type": "DevOps",
+    "name": "DevOps",
+    "avatar": "https://gpts.widenex.com/devops.png",
+    "link": "https://chatgpt.com/g/g-lnTXc3PgP"
+  },
+  {
+    "type": "DevOps",
+    "name": "Docker",
+    "avatar": "https://gpts.widenex.com/docker.png",
+    "link": "https://chatgpt.com/g/g-WbeCJbcUC"
+  },
+  {
+    "type": "DevOps",
+    "name": "Kubernetes",
+    "avatar": "https://gpts.widenex.com/kubernetes.png",
+    "link": "https://chatgpt.com/g/g-mXHBKyTrD"
+  },
+  {
+    "type": "DevOps",
+    "name": "GitHub",
+    "avatar": "https://gpts.widenex.com/github.png",
+    "link": "https://chatgpt.com/g/g-nxKVN6m8Y"
+  },
+  {
+    "type": "DevOps",
+    "name": "GitLab",
+    "avatar": "https://gpts.widenex.com/gitlab.png",
+    "link": "https://chatgpt.com/g/g-EGGIbGikY"
+  },
+  {
+    "type": "DevOps",
+    "name": "Ansible",
+    "avatar": "https://gpts.widenex.com/ansible.png",
+    "link": "https://chatgpt.com/g/g-CLU9DOQNS"
+  },
+  {
+    "type": "DevOps",
+    "name": "Terraform",
+    "avatar": "https://gpts.widenex.com/terraform.png",
+    "link": "https://chatgpt.com/g/g-BGOjJYEsy"
+  },
+  {
+    "type": "DevOps",
+    "name": "Bash",
+    "avatar": "https://gpts.widenex.com/bash.png",
+    "link": "https://chatgpt.com/g/g-YQhH6nop3"
+  },
+  {
+    "type": "DevOps",
+    "name": "Powershell",
+    "avatar": "https://gpts.widenex.com/powershell.png",
+    "link": "https://chatgpt.com/g/g-aVP62L5EX"
+  },
+  {
+    "type": "DevOps",
+    "name": "Linux",
+    "avatar": "https://gpts.widenex.com/linux.png",
+    "link": "https://chatgpt.com/g/g-Ia0hiDskv"
+  },
+  {
+    "type": "DevOps",
+    "name": "Windows Server",
+    "avatar": "https://gpts.widenex.com/windows-server.png",
+    "link": "https://chatgpt.com/g/g-Xsvn65xJG"
+  },
+  {
+    "type": "DevOps",
+    "name": "Amazon AWS",
+    "avatar": "https://gpts.widenex.com/aws.png",
+    "link": "https://chatgpt.com/g/g-UCAfbHtJ8"
+  },
+  {
+    "type": "DevOps",
+    "name": "Google Cloud",
+    "avatar": "https://gpts.widenex.com/gcp.png",
+    "link": "https://chatgpt.com/g/g-zpTzF0EG6"
+  },
+  {
+    "type": "DevOps",
+    "name": "Azure",
+    "avatar": "https://gpts.widenex.com/azure.png",
+    "link": "https://chatgpt.com/g/g-Q70MUlrjN"
+  },
+  {
+    "type": "DevOps",
+    "name": "Jenkins",
+    "avatar": "https://gpts.widenex.com/jenkins.png",
+    "link": "https://chatgpt.com/g/g-tCkPeUWPL"
+  },
+  {
+    "type": "DevOps",
+    "name": "NGINX",
+    "avatar": "https://gpts.widenex.com/nginx.png",
+    "link": "https://chatgpt.com/g/g-56ooQifoT"
+  },
+  {
+    "type": "DevOps",
+    "name": "Grafana",
+    "avatar": "https://gpts.widenex.com/grafana.png",
+    "link": "https://chatgpt.com/g/g-uNcWUKNms"
+  },
+  {
+    "type": "DevOps",
+    "name": "Network Engineer",
+    "avatar": "https://gpts.widenex.com/network.png",
+    "link": "https://chatgpt.com/g/g-R9pph3AHX"
+  },
+  {
+    "type": "DevOps",
+    "name": "Proxmox VE",
+    "avatar": "https://gpts.widenex.com/proxmox.png",
+    "link": "https://chatgpt.com/g/g-vArZtB93N"
+  },
+  {
+    "type": "Databases",
+    "name": "MongoDB",
+    "avatar": "https://gpts.widenex.com/mongodb.png",
+    "link": "https://chatgpt.com/g/g-b3F2Uq5bz"
+  },
+  {
+    "type": "Databases",
+    "name": "PostgreSQL",
+    "avatar": "https://gpts.widenex.com/postgresql.png",
+    "link": "https://chatgpt.com/g/g-alXv6Iq9F"
+  },
+  {
+    "type": "Databases",
+    "name": "MySQL",
+    "avatar": "https://gpts.widenex.com/mysql.png",
+    "link": "https://chatgpt.com/g/g-7lNi0ngBh"
+  },
+  {
+    "type": "Databases",
+    "name": "MariaDB",
+    "avatar": "https://gpts.widenex.com/mariadb.png",
+    "link": "https://chatgpt.com/g/g-GlrTM8XXh"
+  },
+  {
+    "type": "Databases",
+    "name": "SQLite",
+    "avatar": "https://gpts.widenex.com/sqlite.png",
+    "link": "https://chatgpt.com/g/g-8EhfmOiSG"
+  },
+  {
+    "type": "Databases",
+    "name": "Redis",
+    "avatar": "https://gpts.widenex.com/redis.png",
+    "link": "https://chatgpt.com/g/g-jesynRMQW"
+  },
+  {
+    "type": "Databases",
+    "name": "Prisma",
+    "avatar": "https://gpts.widenex.com/prisma.png",
+    "link": "https://chatgpt.com/g/g-lQ0r6Svl9"
+  },
+  {
+    "type": "Databases",
+    "name": "Neo4j",
+    "avatar": "https://gpts.widenex.com/neo4j.png",
+    "link": "https://chatgpt.com/g/g-wQ6LAllHI"
+  },
+  {
+    "type": "Databases",
+    "name": "BigQuery",
+    "avatar": "https://gpts.widenex.com/bigquery.png",
+    "link": "https://chatgpt.com/g/g-3DOsZacAd"
+  },
+  {
+    "type": "Databases",
+    "name": "Oracle",
+    "avatar": "https://gpts.widenex.com/oracle.png",
+    "link": "https://chatgpt.com/g/g-Y7qmkJ6ss"
+  },
+  {
+    "type": "Databases",
+    "name": "SQL Server",
+    "avatar": "https://gpts.widenex.com/sql-server.png",
+    "link": "https://chatgpt.com/g/g-CEcC6a7V5"
+  },
+  {
+    "type": "Databases",
+    "name": "InfluxDB",
+    "avatar": "https://gpts.widenex.com/influxdb.png",
+    "link": "https://chatgpt.com/g/g-JOuW6IsSe"
+  },
+  {
+    "type": "Databases",
+    "name": "ElasticSearch",
+    "avatar": "https://gpts.widenex.com/elasticsearch.png",
+    "link": "https://chatgpt.com/g/g-sGlrjVsqj"
+  },
+  {
+    "type": "Databases",
+    "name": "ClickHouse",
+    "avatar": "https://gpts.widenex.com/clickhouse.png",
+    "link": "https://chatgpt.com/g/g-ENajE1kIp"
+  },
+  {
+    "type": "Game & 3D",
+    "name": "Unity",
+    "avatar": "https://gpts.widenex.com/unity.png",
+    "link": "https://chatgpt.com/g/g-cYrdRq4D8"
+  },
+  {
+    "type": "Game & 3D",
+    "name": "Unreal Engine",
+    "avatar": "https://gpts.widenex.com/unreal.png",
+    "link": "https://chatgpt.com/g/g-ePsUdhORE"
+  },
+  {
+    "type": "Game & 3D",
+    "name": "Godot",
+    "avatar": "https://gpts.widenex.com/godot.png",
+    "link": "https://chatgpt.com/g/g-82UvoZ9th"
+  },
+  {
+    "type": "Game & 3D",
+    "name": "visionOS",
+    "avatar": "https://gpts.widenex.com/visionos.png",
+    "link": "https://chatgpt.com/g/g-N6cjeP6IK"
+  },
+  {
+    "type": "Game & 3D",
+    "name": "Three.js",
+    "avatar": "https://gpts.widenex.com/threejs.png",
+    "link": "https://chatgpt.com/g/g-wn7k1QivE"
+  },
+  {
+    "type": "Game & 3D",
+    "name": "Blender",
+    "avatar": "https://gpts.widenex.com/blender.png",
+    "link": "https://chatgpt.com/g/g-w7Ewzzi94"
+  },
+  {
+    "type": "Game & 3D",
+    "name": "Houdini",
+    "avatar": "https://gpts.widenex.com/houdini.png",
+    "link": "https://chatgpt.com/g/g-EeIhVdXor"
+  },
+  {
+    "type": "Game & 3D",
+    "name": "AutoCAD",
+    "avatar": "https://gpts.widenex.com/autocad.png",
+    "link": "https://chatgpt.com/g/g-VCo8RJd7i"
+  },
+  {
+    "type": "Game & 3D",
+    "name": "Maya",
+    "avatar": "https://gpts.widenex.com/maya.png",
+    "link": "https://chatgpt.com/g/g-4P7s8a1JB"
+  },
+  {
+    "type": "Game & 3D",
+    "name": "SolidWorks",
+    "avatar": "https://gpts.widenex.com/sw.png",
+    "link": "https://chatgpt.com/g/g-gepsU8g9e"
+  },
+  {
+    "type": "AI & Automation",
+    "name": "Machine Learning",
+    "avatar": "https://gpts.widenex.com/ml.png",
+    "link": "https://chatgpt.com/g/g-i4yuFMbNJ"
+  },
+  {
+    "type": "AI & Automation",
+    "name": "Deep Learning",
+    "avatar": "https://gpts.widenex.com/dl.png",
+    "link": "https://chatgpt.com/g/g-sHR6AdNlS"
+  },
+  {
+    "type": "AI & Automation",
+    "name": "Computer Vision",
+    "avatar": "https://gpts.widenex.com/computer-vision.png",
+    "link": "https://chatgpt.com/g/g-H2MM6AqSm"
+  },
+  {
+    "type": "AI & Automation",
+    "name": "TensorFlow",
+    "avatar": "https://gpts.widenex.com/tensorflow.png",
+    "link": "https://chatgpt.com/g/g-2rhP5j7oU"
+  },
+  {
+    "type": "AI & Automation",
+    "name": "PyTorch",
+    "avatar": "https://gpts.widenex.com/pytorch.png",
+    "link": "https://chatgpt.com/g/g-6rmZ7sjLE"
+  },
+  {
+    "type": "AI & Automation",
+    "name": "Ollama",
+    "avatar": "https://gpts.widenex.com/ollama.png",
+    "link": "https://chatgpt.com/g/g-O3M4jhJ11"
+  },
+  {
+    "type": "AI & Automation",
+    "name": "Langchain",
+    "avatar": "https://gpts.widenex.com/langchain.png",
+    "link": "https://chatgpt.com/g/g-RRN2l34zY"
+  },
+  {
+    "type": "AI & Automation",
+    "name": "Google Colab",
+    "avatar": "https://gpts.widenex.com/colab.png",
+    "link": "https://chatgpt.com/g/g-BmSxrykLk"
+  },
+  {
+    "type": "AI & Automation",
+    "name": "Gradio",
+    "avatar": "https://gpts.widenex.com/gradio.png",
+    "link": "https://chatgpt.com/g/g-fUWYQzHNl"
+  },
+  {
+    "type": "AI & Automation",
+    "name": "Streamlit",
+    "avatar": "https://gpts.widenex.com/streamlit.png",
+    "link": "https://chatgpt.com/g/g-4LD02Th3K"
+  },
+  {
+    "type": "AI & Automation",
+    "name": "HuggingFace",
+    "avatar": "https://gpts.widenex.com/huggingface.png",
+    "link": "https://chatgpt.com/g/g-xrsh5QbCa"
+  },
+  {
+    "type": "AI & Automation",
+    "name": "Power Automate",
+    "avatar": "https://gpts.widenex.com/powerautomate.png",
+    "link": "https://chatgpt.com/g/g-a84NWzllN"
+  },
+  {
+    "type": "AI & Automation",
+    "name": "Telegram Bot Builder",
+    "avatar": "https://gpts.widenex.com/telegram.png",
+    "link": "https://chatgpt.com/g/g-CVm6OXYEx"
+  },
+  {
+    "type": "AI & Automation",
+    "name": "Discord Bot Builder",
+    "avatar": "https://gpts.widenex.com/discord.png",
+    "link": "https://chatgpt.com/g/g-dU6oWuSpd"
+  },
+  {
+    "type": "AI & Automation",
+    "name": "N8N",
+    "avatar": "https://gpts.widenex.com/n8n.png",
+    "link": "https://chatgpt.com/g/g-NnK6lC3Dq"
+  },
+  {
+    "type": "AI & Automation",
+    "name": "Make.com",
+    "avatar": "https://gpts.widenex.com/make.png",
+    "link": "https://chatgpt.com/g/g-kSOu4Y9Lp"
+  },
+  {
+    "type": "AI & Automation",
+    "name": "Google Apps Script",
+    "avatar": "https://gpts.widenex.com/appscript.png",
+    "link": "https://chatgpt.com/g/g-A6w4scWJK"
+  },
+  {
+    "type": "AI & Automation",
+    "name": "Power Apps",
+    "avatar": "https://gpts.widenex.com/power-apps.png",
+    "link": "https://chatgpt.com/g/g-5mIRy9BPq"
+  },
+  {
+    "type": "AI & Automation",
+    "name": "Selenium",
+    "avatar": "https://gpts.widenex.com/selenium.png",
+    "link": "https://chatgpt.com/g/g-U8XUXAdU9"
+  },
+  {
+    "type": "AI & Automation",
+    "name": "MQL5",
+    "avatar": "https://gpts.widenex.com/mql5.png",
+    "link": "https://chatgpt.com/g/g-yh0QWUGAb"
+  },
+  {
+    "type": "Data",
+    "name": "Data Science",
+    "avatar": "https://gpts.widenex.com/datascience.png",
+    "link": "https://chatgpt.com/g/g-mzOv2eohd"
+  },
+  {
+    "type": "Data",
+    "name": "Big Data",
+    "avatar": "https://gpts.widenex.com/big-data.png",
+    "link": "https://chatgpt.com/g/g-QYxyoYKXo"
+  },
+  {
+    "type": "Data",
+    "name": "MATLAB",
+    "avatar": "https://gpts.widenex.com/matlab.png",
+    "link": "https://chatgpt.com/g/g-m5cuGiJOb"
+  },
+  {
+    "type": "Data",
+    "name": "Power BI",
+    "avatar": "https://gpts.widenex.com/powerbi.png",
+    "link": "https://chatgpt.com/g/g-QJELPEi0c"
+  },
+  {
+    "type": "Data",
+    "name": "Pandas",
+    "avatar": "https://gpts.widenex.com/pandas.png",
+    "link": "https://chatgpt.com/g/g-9599999Yx"
+  },
+  {
+    "type": "Data",
+    "name": "PySpark",
+    "avatar": "https://gpts.widenex.com/pyspark.png",
+    "link": "https://chatgpt.com/g/g-cS0sw0NL8"
+  },
+  {
+    "type": "Data",
+    "name": "Airflow",
+    "avatar": "https://gpts.widenex.com/airflow.png",
+    "link": "https://chatgpt.com/g/g-WTRBmoUdO"
+  },
+  {
+    "type": "Web3",
+    "name": "Blockchain",
+    "avatar": "https://gpts.widenex.com/blockchain.png",
+    "link": "https://chatgpt.com/g/g-DTsJhjsM7"
+  },
+  {
+    "type": "Web3",
+    "name": "Smart Contracts",
+    "avatar": "https://gpts.widenex.com/smart-contract.png",
+    "link": "https://chatgpt.com/g/g-etTOtdIQu"
+  },
+  {
+    "type": "Web3",
+    "name": "Solidity",
+    "avatar": "https://gpts.widenex.com/solidity.png",
+    "link": "https://chatgpt.com/g/g-xI6kvspjp"
+  },
+  {
+    "type": "Web3",
+    "name": "Solana",
+    "avatar": "https://gpts.widenex.com/solana.png",
+    "link": "https://chatgpt.com/g/g-iLCUgFH1w"
+  },
+  {
+    "type": "Web3",
+    "name": "Cryptography",
+    "avatar": "https://gpts.widenex.com/cryptography.png",
+    "link": "https://chatgpt.com/g/g-X35BfCq15"
+  },
+  {
+    "type": "CMS",
+    "name": "Wordpress",
+    "avatar": "https://gpts.widenex.com/wordpress.png",
+    "link": "https://chatgpt.com/g/g-C4NldQcJW"
+  },
+  {
+    "type": "CMS",
+    "name": "Odoo",
+    "avatar": "https://gpts.widenex.com/odoo.png",
+    "link": "https://chatgpt.com/g/g-Q3Gu30hki"
+  },
+  {
+    "type": "CMS",
+    "name": "WooCommerce",
+    "avatar": "https://gpts.widenex.com/woocommerce.png",
+    "link": "https://chatgpt.com/g/g-U0HPUzjSG"
+  },
+  {
+    "type": "IoT & Hardware",
+    "name": "Home Assistant",
+    "avatar": "https://gpts.widenex.com/home-assistant.png",
+    "link": "https://chatgpt.com/g/g-77DJDBvEg"
+  },
+  {
+    "type": "IoT & Hardware",
+    "name": "ESP32",
+    "avatar": "https://gpts.widenex.com/esp32.png",
+    "link": "https://chatgpt.com/g/g-OVJJirjZF"
+  },
+  {
+    "type": "IoT & Hardware",
+    "name": "Arduino",
+    "avatar": "https://gpts.widenex.com/arduino.png",
+    "link": "https://chatgpt.com/g/g-xuBSHrsp5"
+  },
+  {
+    "type": "IoT & Hardware",
+    "name": "Node-RED",
+    "avatar": "https://gpts.widenex.com/node-red.png",
+    "link": "https://chatgpt.com/g/g-adwIUhhSi"
+  },
+  {
+    "type": "IoT & Hardware",
+    "name": "Raspberry",
+    "avatar": "https://gpts.widenex.com/raspberry.png",
+    "link": "https://chatgpt.com/g/g-cee3fefNv"
+  },
+  {
+    "type": "IoT & Hardware",
+    "name": "ROS",
+    "avatar": "https://gpts.widenex.com/ros.png",
+    "link": "https://chatgpt.com/g/g-Fm3DKyd70"
+  },
+  {
+    "type": "IoT & Hardware",
+    "name": "Verilog",
+    "avatar": "https://gpts.widenex.com/verilog.png",
+    "link": "https://chatgpt.com/g/g-nSbDpEFPk"
+  },
+  {
+    "type": "IoT & Hardware",
+    "name": "Linux Kernel",
+    "avatar": "https://gpts.widenex.com/kernel.png",
+    "link": "https://chatgpt.com/g/g-ywTZIdHTj"
+  },
+  {
+    "type": "IoT & Hardware",
+    "name": "Electronics",
+    "avatar": "https://gpts.widenex.com/circuits.png",
+    "link": "https://chatgpt.com/g/g-utxzzZnMq"
+  },
+  {
+    "type": "Editors",
+    "name": "Xcode",
+    "avatar": "https://gpts.widenex.com/xcode.png",
+    "link": "https://chatgpt.com/g/g-EWeuArb2b"
+  },
+  {
+    "type": "Editors",
+    "name": "Visual Studio",
+    "avatar": "https://gpts.widenex.com/visual-studio.png",
+    "link": "https://chatgpt.com/g/g-9Qfum24FM"
+  },
+  {
+    "type": "Editors",
+    "name": "VS Code",
+    "avatar": "https://gpts.widenex.com/vscode.png",
+    "link": "https://chatgpt.com/g/g-ZpZUQbCxM"
+  },
+  {
+    "type": "Editors",
+    "name": "Neovim",
+    "avatar": "https://gpts.widenex.com/neovim.png",
+    "link": "https://chatgpt.com/g/g-QpTPR8bgn"
+  },
+  {
+    "type": "Editors",
+    "name": "Jupyter",
+    "avatar": "https://gpts.widenex.com/jupyter.png",
+    "link": "https://chatgpt.com/g/g-fjvdGYEfT"
+  },
+  {
+    "type": "Writing",
+    "name": "Grammar",
+    "avatar": "https://gpts.widenex.com/grammar.png",
+    "link": "https://chatgpt.com/g/g-wuhUJlo40"
+  },
+  {
+    "type": "Writing",
+    "name": "Rewrite",
+    "avatar": "https://gpts.widenex.com/rewrite.png",
+    "link": "https://chatgpt.com/g/g-w3xXHaf5k"
+  },
+  {
+    "type": "Tools",
+    "name": "Code",
+    "avatar": "https://gpts.widenex.com/code.png",
+    "link": "https://chatgpt.com/g/g-xyrbbmlRT"
+  },
+  {
+    "type": "Tools",
+    "name": "Git",
+    "avatar": "https://gpts.widenex.com/git.png",
+    "link": "https://chatgpt.com/g/g-JtV1tF7gf"
+  },
+  {
+    "type": "Tools",
+    "name": "Code Interpreter",
+    "avatar": "https://gpts.widenex.com/interpreter.png",
+    "link": "https://chatgpt.com/g/g-pSfnicwaW"
+  },
+  {
+    "type": "Tools",
+    "name": "Apple Shortcuts",
+    "avatar": "https://gpts.widenex.com/apple-shortcuts.png",
+    "link": "https://chatgpt.com/g/g-x2xTHgQG8"
+  },
+  {
+    "type": "Tools",
+    "name": "GIS",
+    "avatar": "https://gpts.widenex.com/gis.png",
+    "link": "https://chatgpt.com/g/g-x2xTHgQG8"
+  },
+  {
+    "type": "Tools",
+    "name": "JSON",
+    "avatar": "https://gpts.widenex.com/json.png",
+    "link": "https://chatgpt.com/g/g-bIMOi37Fy"
+  },
+  {
+    "type": "Tools",
+    "name": "XML",
+    "avatar": "https://gpts.widenex.com/xml.png",
+    "link": "https://chatgpt.com/g/g-m4O4JCYv9"
+  },
+  {
+    "type": "Tools",
+    "name": "RegEx",
+    "avatar": "https://gpts.widenex.com/regex.png",
+    "link": "https://chatgpt.com/g/g-dQgEORK9z"
+  },
+  {
+    "type": "Tools",
+    "name": "LaTeX",
+    "avatar": "https://gpts.widenex.com/latex.png",
+    "link": "https://chatgpt.com/g/g-bATrQ6rdt"
+  }, {
+  "type": "Tools",
+  "name": "Code",
+  "avatar": "https://gpts.widenex.com/code.png",
+  "link": "https://chatgpt.com/g/g-xyrbbmlRT"
+},
+  {
+    "type": "Tools",
+    "name": "Git",
+    "avatar": "https://gpts.widenex.com/git.png",
+    "link": "https://chatgpt.com/g/g-JtV1tF7gf"
+  },
+  {
+    "type": "Tools",
+    "name": "Code Interpreter",
+    "avatar": "https://gpts.widenex.com/interpreter.png",
+    "link": "https://chatgpt.com/g/g-pSfnicwaW"
+  },
+  {
+    "type": "Tools",
+    "name": "Apple Shortcuts",
+    "avatar": "https://gpts.widenex.com/apple-shortcuts.png",
+    "link": "https://chatgpt.com/g/g-x2xTHgQG8"
+  },
+  {
+    "type": "Tools",
+    "name": "GIS",
+    "avatar": "https://gpts.widenex.com/gis.png",
+    "link": "https://chatgpt.com/g/g-x2xTHgQG8"
+  },
+  {
+    "type": "Tools",
+    "name": "JSON",
+    "avatar": "https://gpts.widenex.com/json.png",
+    "link": "https://chatgpt.com/g/g-bIMOi37Fy"
+  },
+  {
+    "type": "Tools",
+    "name": "XML",
+    "avatar": "https://gpts.widenex.com/xml.png",
+    "link": "https://chatgpt.com/g/g-m4O4JCYv9"
+  },
+  {
+    "type": "Tools",
+    "name": "RegEx",
+    "avatar": "https://gpts.widenex.com/regex.png",
+    "link": "https://chatgpt.com/g/g-dQgEORK9z"
+  },
+  {
+    "type": "Tools",
+    "name": "LaTeX",
+    "avatar": "https://gpts.widenex.com/latex.png",
+    "link": "https://chatgpt.com/g/g-bATrQ6rdt"
+  }
+]
