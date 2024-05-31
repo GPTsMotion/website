@@ -1,0 +1,32 @@
+---
+import { useState } from 'react';
+import data from './data.json';
+
+const Gpts = () => {
+  const [selectedType, setSelectedType] = useState('Languages');
+  const types = Array.from(new Set(data.map(item => item.type)));
+  const groupedData = {};
+
+  types.forEach(type => {
+    groupedData[type] = data.filter(item => item.type === type);
+  });
+
+  const handleSelectType = (type) => {
+    setSelectedType(type);
+  };
+
+  return (
+    <div className='py-20 text-white flex items-center justify-center z-40'>
+      <div className='w-full flex flex-col gap-10 max-w-4xl items-center justify-between font-mono text-sm lg:flex'>
+        <div className='pt-20 flex flex-row gap-10 justify-center items-center'>
+          <h1 className='text-5xl font-bold text-center'>GPTs</h1>
+        </div>
+        <div className='py-10 text-center'>
+          {types.map((type, index) => (
+            <button
+              className={`${type === selectedType ? 'bg-white text-black' : 'bg-gray-700 text-white hover:bg-gray-500'} rounded-lg text-nowrap duration-300 hover:scale-[102%] px-3 mr-3 mb-3 py-2`}
+              key={index} onClick={() => handleSelectType(type)}>{type}</button>
+          ))}
+        </div>
+        <div>
+          {selected
